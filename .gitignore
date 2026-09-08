@@ -1,0 +1,17 @@
+# Data (not distributable: commercial database licence)
+data/
+*.xlsx
+*.xls
+*.dta
+*.csv
+
+# R
+.Rhistory
+.Rapp.history
+.RData
+.Ruserdata
+.Rproj.user/
+*.Rproj
+
+# OS
+.DS_Store
